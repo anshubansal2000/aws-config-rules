@@ -27,7 +27,7 @@
     <dependency>
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-java-sdk-iam</artifactId>
-      <version>[1.10.5,)</version>
+      <version>1.12.116</version>
     </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
